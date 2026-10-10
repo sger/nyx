@@ -8,3 +8,4 @@ edition = "2024"
 
 [workspace.dependencies]
 nyx-core = { path = "crates/nyx-core" }
+thiserror = "2.0.21"
