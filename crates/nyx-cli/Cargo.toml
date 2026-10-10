@@ -1,0 +1,7 @@
+[package]
+name = "nyx-cli"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+nyx-core.workspace = true

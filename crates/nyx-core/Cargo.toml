@@ -1,0 +1,4 @@
+[package]
+name = "nyx-core"
+version.workspace = true
+edition.workspace = true
