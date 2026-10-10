@@ -4,4 +4,11 @@ version.workspace = true
 edition.workspace = true
 
 [dependencies]
+jiff.workspace = true
+minijinja.workspace = true
+pulldown-cmark.workspace = true
+serde.workspace = true
 thiserror.workspace = true
+toml.workspace = true
+tracing.workspace = true
+walkdir.workspace = true
